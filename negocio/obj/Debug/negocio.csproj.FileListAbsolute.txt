@@ -1,0 +1,9 @@
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\bin\Debug\negocio.dll
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\bin\Debug\negocio.pdb
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\bin\Debug\dominio.dll
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\bin\Debug\dominio.pdb
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\obj\Debug\negocio.dll
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\negocio\obj\Debug\negocio.pdb

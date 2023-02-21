@@ -1,0 +1,6 @@
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\dominio\bin\Debug\dominio.dll
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\dominio\bin\Debug\dominio.pdb
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\dominio\obj\Debug\dominio.dll
+D:\Lucas\Curso_C#_Maxi\Nivel_3\ejemplos-ado-net\dominio\obj\Debug\dominio.pdb
