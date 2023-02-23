@@ -21,6 +21,7 @@ namespace negocio
         {
             conexion = new SqlConnection("server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true");
             comando = new SqlCommand();
+            
         }
 
         public void setearConsulta(string consulta)
@@ -64,7 +65,7 @@ namespace negocio
 
         public void cerrarConexion()
         {
-            if (lector != null)
+            if (lector !=  null)
                 lector.Close();
             conexion.Close();
         }
